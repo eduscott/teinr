@@ -1,0 +1,13 @@
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 25px;
+}   
+
+.btn-lg.round{
+    border-radius: 28px;
+}
